@@ -14,6 +14,9 @@ TODO: any network and/or comp.arch. course?
 ## Minimum Requirements to Qualify for the Final Exam
 Check the website of the course.
 
+## Project
+Each student is expected to get a free account on a cloud vendor(AWS/Azure/etc...); during the second week of classes each student will propose an application to be developed and run on the cloud. During the last weeks of classes each student will present: the algorithms used,the implementation, the results and a performance analysis of the application.
+
 ## Weekly Syllabus
 1. Introduction to cloud computing
 2. Cloud architectures
