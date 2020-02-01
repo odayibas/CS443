@@ -6,7 +6,7 @@ Hands-on introduction to cloud computing and developing cloud-native (esp. mobil
 Basically, this course has the following learning outcomes:
 * What is cloud computing? Why we need it and in which cases we can use that paradigm (__Module-1: What is it?__).
 * How to implement a cloud computing system? What is essential to build an efficient cloud solution (__Module-2: How to implement it?__)
-* How to manage a sustainable cloud business in both business and technical terms (__Module-3: How to manage it?__)
+* How to sustain a cloud application in both business and technical terms (__Module-3: How to manage it?__)
 
 ## Prerequisite(s)
 Please refer to the webpage of the course.
