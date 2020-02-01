@@ -1,23 +1,27 @@
 # CS443 – Cloud Computing &amp; Applications
 
 ## Catalog Description
-Hands-on introduction to cloud computing and developing cloud-native applications. Cloud application models, services and infrastructures (virtualization, data center networking, distributed file systems), cluster computing systems (e.g. Spark), fundemantal tradeoffs and methods (CAP theorem, NoSQL systems), arhictecture (modern n-tier, lamda, kappa) and applications (big data analytics, large-scale web services). Programming to develop scalable applications running on the cloud (AWS and/or Azure).
+Hands-on introduction to cloud computing and developing cloud-native applications. Cloud application models, services and infrastructures (virtualization, data center networking, distributed file systems), cluster computing systems (e.g. Spark), fundemantal tradeoffs and methods (CAP theorem, NoSQL systems), arhictecture (modern n-tier, lambda, kappa) and applications (big data analytics, large-scale web services). Programming to develop scalable applications running on the cloud (AWS and/or Azure).
 
 ## Prerequisite(s)
-TODO: any network and/or comp.arch. course?
+Please refer to STARS page of the course.
 
 ## Assessment Methods
-* Midterm: Essay/written
-* Final: Essay/written
-* Project
+
+| Item    | Type          | Weight  |
+| ------- |:-------------:| -----:|
+| Attendance| N/A         | 5%  |
+| Midterm | Essay/written | 30% |
+| Project | Hands-on Imp. | 30% |
+| Final | Essay/written   | 35% |
 
 ## Minimum Requirements to Qualify for the Final Exam
-Check the website of the course.
+Please refer to STARS page of the course.
 
 ## Project
-Each student is expected to get a free account on a cloud vendor(AWS/Azure/etc...); during the second week of classes each student will propose an application to be developed and run on the cloud. During the last weeks of classes each student will present: the algorithms used,the implementation, the results and a performance analysis of the application.
+Each student is expected to be part of a team (size of 2 or 3 people). During the fourth or fifth week of classes the project topic will be annnounced and every team will be expected to implement a cloud-native mobile-first application. Grading criteria will include the operational features of the application (we will cover these features in detail). During the classes each team will present: reports and demo/presentation on at least but not limited to the implementation details, external services, cloud characteristics, performance analysis, etc.
 
-## Weekly Syllabus
+## Weekly Syllabus (Tentative)
 1. Introduction to cloud computing
 2. Cloud architectures
 3. Data center networks & storage
