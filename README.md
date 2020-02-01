@@ -26,8 +26,8 @@ Each student is expected to be part of a team (size of 2 or 3 people). During th
 | Module | Week numbers and topics |
 |:-------|:------|
 | Module-1: What is it? | 1. Introduction to cloud computing </br> 2. Features of cloud </br> 3. Cloud application architectures </br> 4. Scalable system design </br> 5. Microservices |
-| Module-2: How to implement it? | 6. Anatomy of a Datacenter (Network & Storage) </br> 7. Virtualization & containers </br> 8. Resource management & coordination </br> 9. Programming models </br> 10. Cloud-native application development |
-| Module-3: How to manage it? | 11. Migrating into a cloud </br> 12. Security and privacy <br/> 13. Cloud vendors & tools </br> 14. Governance & Case studies |
+| Module-2: How to implement it? | 6. Anatomy of a datacenter (Network & Storage) </br> 7. Virtualization & containers </br> 8. Resource management & coordination </br> 9. Programming models </br> 10. Cloud-native application development </br> 11. Mobile applications & case studies|
+| Module-3: How to manage it? | 12. Migration concerns (security & privacy) </br> 13. Cloud vendors & tools </br> 14. Governance & Case studies |
 
 ## FAQ
 That part will be updated with the questions recieved during the first day of classes (hoping that will help you to decide on taking the course before add/drop week) 
