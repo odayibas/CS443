@@ -3,6 +3,11 @@
 ## Catalog Description
 Hands-on introduction to cloud computing and developing cloud-native (esp. mobile) applications. Cloud application models, services and infrastructures (virtualization, data center networking, distributed file systems), cluster computing systems (e.g. Spark), fundemantal tradeoffs and methods (CAP theorem, NoSQL systems), arhictecture (modern n-tier, lambda, kappa) and applications (big data analytics, large-scale web services). Programming to develop scalable applications running on the cloud (e.g. AWS, Azure, GCP, Oracle).
 
+Basically, this course has the following learning outcomes:
+* What is cloud computing? Why we need it and in which cases we can use that paradigm (__Module-1: What is it?__).
+* How to implement a cloud computing system? What is essential to build an efficient cloud solution (__Module-2: How to implement it?__)
+* How to manage a sustainable cloud business in both business and technical terms (__Module-3: How to manage it?__)
+
 ## Prerequisite(s)
 Please refer to the webpage of the course.
 
@@ -20,6 +25,12 @@ Please refer to the webpage of the course.
 
 ## Project
 Each student is expected to be part of a team (size of 3 people). During the fifth or sixth week of classes the project topic will be annnounced and every team will be expected to implement a cloud-native mobile-first application. Grading criteria will include the operational features of the application (we will cover these features in detail). During the classes each team will present: reports and demo/presentation on at least but not limited to the implementation details, external services, cloud characteristics, performance analysis, etc.
+
+| | |
+|-|-|
+|__Project Topic__ | (to be announced) |
+|__Deliverables__  | (to be announced) |
+
 
 ## Weekly Syllabus
 
