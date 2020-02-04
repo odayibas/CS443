@@ -36,9 +36,9 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 
 | Module | Week numbers and topics |
 |:-------|:------|
-| Module-1: What is it? | 1. Introduction to cloud computing </br> 2. Features of cloud </br> 3. Cloud application architectures </br> 4. Scalable system design </br> 5. Microservices |
-| Module-2: How to implement it? | 6. Anatomy of a datacenter (Network & Storage) </br> 7. Virtualization & containers </br> 8. Resource management & coordination </br> 9. Programming models </br> 10. Cloud-native application development </br> 11. Mobile applications & case studies|
-| Module-3: How to manage it? | 12. Migration concerns (security & privacy) </br> 13. Cloud vendors & tools </br> 14. Governance & Case studies |
+| Module-1: What is it? | 1. Introduction to cloud computing <br/> 2. Features of cloud <br/> 3. Cloud application architectures <br/> 4. Scalable system design <br/> 5. Microservices |
+| Module-2: How to implement it? | 6. Anatomy of a datacenter (Network & Storage) <br/> 7. Virtualization & containers <br/> 8. Resource management & coordination <br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies|
+| Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies |
 
 ## Weekly Schedule for 2019-2020 Spring Semester
 * Monday 13:40 - 15:30 (EA-Z03)
@@ -47,14 +47,14 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 ## FAQ
 You can find the questions recieved during the first day of classes (hoping that will help you to decide on taking the course before add/drop week)
 
-__Q:__ Which mobile development frameworks (iOS/Android/etc.) will be used during the course?
+__Q:__ Which mobile development frameworks (iOS/Android/etc.) will be used during the course? <br/>
 __A:__ Please do not consider that course as a "App development course". "Mobile App development" is not one of the learning outcome objectives. We will use "mobile applications" as the main theme for implementing a cloud computing solution.
 
-__Q:__ Which cloud service provider (vendor) will be used during the course (tutorials and/or project)?
+__Q:__ Which cloud service provider (vendor) will be used during the course (tutorials and/or project)? <br/>
 __A:__ Any tool/framework of a major vendor can be used (please refer to "catalog desc." part). Project deliverables (reports/presentation/demo/etc.) will include details about external services used (but it has no effect on grading). In terms of our learning objectives, we will be more into "how you use these services/tools in under which conditions".
 
-__Q:__ Do you consider to use spare hour of the course (Wed. 16:40)?
+__Q:__ Do you consider to use spare hour of the course (Wed. 16:40)? <br/>
 __A:__ Not by default. Normally, we will not use the spare slot regularly but it will be used to make up any missed class hour. A notice mail will be sent to all registered students via STARS system in any such cases (as early as possible).  
 
 ## External Links
-(That part will be updated with the informative content links throughout the semester)
+That part will be used to provide external supporting content (e.g. blog posts, video tutorials) throughout the semester.
