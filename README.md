@@ -24,7 +24,7 @@ Please refer to the webpage of the course.
 Please refer to the webpage of the course.
 
 ## Project
-Each student is expected to be part of a team (size of 3 people). During the fifth or sixth week of classes the project topic will be annnounced and every team will be expected to implement a cloud-native mobile-first application. Grading criteria will include the operational features of the application (we will cover these features in detail). During the classes each team will present: reports and demo/presentation on at least but not limited to the implementation details, external services, cloud characteristics, performance analysis, etc.
+Each student is expected to be part of a team (size of 3 people). During the fifth or sixth week of classes the project topic will be annnounced and every team will be expected to implement a cloud-native mobile-first application. Grading criteria will include the operational features of the application (we will cover these features in detail throughout the semester). During the classes each team will present: reports and demo/presentation on at least but not limited to the implementation details, external services, cloud characteristics, performance analysis, etc.
 
 | | |
 |-|-|
@@ -36,7 +36,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 
 | Module | Week numbers and topics |
 |:-------|:------|
-| Module-1: What is it? | 1. Introduction to cloud computing <br/> 2. Features of cloud <br/> 3. Cloud application architectures <br/> 4. Scalable system design <br/> 5. Microservices |
+| Module-1: What is it? | [1. Introduction to cloud computing](../blob/master/slides/chapter-1.pdf) <br/> 2. Features of cloud <br/> 3. Cloud application architectures <br/> 4. Scalable system design <br/> 5. Microservices |
 | Module-2: How to implement it? | 6. Anatomy of a datacenter (Network & Storage) <br/> 7. Virtualization & containers <br/> 8. Resource management & coordination <br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies|
 | Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies |
 
