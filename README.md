@@ -54,7 +54,10 @@ __Q:__ Which cloud service provider (vendor) will be used during the course (tut
 __A:__ Any tool/framework of a major vendor can be used (please refer to "catalog desc." part). Project deliverables (reports/presentation/demo/etc.) will include details about external services used (but it has no effect on grading). In terms of our learning objectives, we will be more into "how you use these services/tools in under which conditions".
 
 __Q:__ Do you consider to use spare hour of the course (Wed. 16:40)? <br/>
-__A:__ Not by default. Normally, we will not use the spare slot regularly but it will be used to make up any missed class hour. A notice mail will be sent to all registered students via STARS system in any such cases (as early as possible).  
+__A:__ Not by default. Normally, we will not use the spare slot regularly but it will be used to make up any missed class hour. A notice mail will be sent to all registered students via STARS system in any such cases (as early as possible).
+
+__Q:__ Are you planning to use any textbook? <br />
+__A:__ No, it is very diffucult to find a book that covers the topics of that course. My main objective is to design a course that conveys the both technical and business side of cloud systems. Therefore, following that webpage for slides (I will upload slides weekly) and "external links" list (probably that list will include additional infomative content which is refered in the course but not limited to that) is the best way to cope with it.
 
 ## External Links
 That part will be used to provide external supporting content (e.g. blog posts, video tutorials) throughout the semester.
