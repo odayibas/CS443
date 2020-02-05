@@ -59,7 +59,7 @@ __A3:__ Not by default. Normally, we will not use the spare slot regularly but i
 __Q4:__ Are you planning to use any textbook? <br />
 __A4:__ No, it is very difficult to find a book that covers the topics of that course. My main objective is to design a course that conveys the both technical and business side of cloud systems. Therefore, following that web page for slides (I will upload slides weekly) and "external links" list (probably that list will include additional infomative content which is referred in the course but not limited to that) is the best way to cope with it.
 
-__Q5:__ Is it possible to form a 5-person project team?
+__Q5:__ Is it possible to form a 5-person project team? <br />
 __A5:__ No, it is not possible.
 
 ## External Links
