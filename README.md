@@ -8,6 +8,10 @@ Basically, this course has the following learning outcomes:
 * How to implement a cloud computing system? What is essential to build an efficient cloud solution (__Module-2: How to implement it?__)
 * How to sustain a cloud application in both business and technical terms (__Module-3: How to manage it?__)
 
+## Staff
+* Lecturer: Dr. Orçun Dayıbaş
+* T. Assistant: Mousa Farshkar Azari
+
 ## Prerequisite(s)
 Please refer to the web page of the course.
 
@@ -45,7 +49,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 * Wednesday 15:40 - 16:30 (EA-Z03)
 
 ## FAQ
-You can find the questions received during the first week of classes (hoping that will help you to decide on taking the course before add/drop week)
+Below you can find the questions received during the first week of classes (hoping that will help you to decide on taking the course before add/drop week)
 
 __Q1:__ Which mobile development frameworks (iOS/Android/etc.) will be used during the course? <br/>
 __A1:__ Please do not consider that course as a "App development course". "Mobile App development" is not one of the learning outcome objectives. We will use "mobile applications" as the main theme for implementing a cloud computing solution.
@@ -57,7 +61,7 @@ __Q3:__ Do you consider to use spare hour of the course (Wed. 16:40)? <br/>
 __A3:__ Not by default. Normally, we will not use the spare slot regularly but it will be used to make up any missed class hour. A notice mail will be sent to all registered students via STARS system in any such cases (as early as possible).
 
 __Q4:__ Are you planning to use any textbook? <br />
-__A4:__ No, it is very difficult to find a book that covers the topics of that course. My main objective is to design a course that conveys the both technical and business side of cloud systems. Therefore, following that web page for slides (I will upload slides weekly) and "external links" list (probably that list will include additional infomative content which is referred in the course but not limited to that) is the best way to cope with it.
+__A4:__ No, it is very difficult to find a book that covers the topics of that course. The main objective is to design a course that conveys the both technical and business sides of cloud systems. Therefore, following this web page for slides (I will upload slides weekly) and "external links" list (probably that list will include additional infomative content which is referred in the course but not limited to that) is the best way to cope with it.
 
 __Q5:__ Is it possible to form a 5-person project team? <br />
 __A5:__ No, it is not possible.
