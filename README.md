@@ -1,4 +1,4 @@
-# CS443 – Cloud Computing &amp; Applications
+# CS443 – Cloud Computing &amp; (Mobile) Applications
 
 ## Catalog Description
 Hands-on introduction to cloud computing and developing cloud-native (esp. mobile) applications. Cloud application models, services and infrastructures (virtualization, data center networking, distributed file systems), cluster computing systems (e.g. Spark), fundamental trade offs and methods (CAP theorem, NoSQL systems), architecture (modern n-tier, lambda, kappa) and applications (big data analytics, large-scale web services). Programming to develop scalable applications running on the cloud (e.g. AWS, Azure, GCP, Oracle).
@@ -9,7 +9,7 @@ Basically, this course has the following learning outcomes:
 * How to sustain a cloud application in both business and technical terms (__Module-3: How to manage it?__)
 
 ## Staff
-* Lecturer: Dr. Orçun Dayıbaş
+* Instructor: Dr. Orçun Dayıbaş
 * T. Assistant: Mousa Farshkar Azari
 
 ## Prerequisite(s)
@@ -70,3 +70,4 @@ __A5:__ No, it is not possible.
 That part will be used to provide external supporting content (e.g. blog posts, video tutorials) throughout the semester.
 
 - [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
+- [C2MS: Dynamic Monitoring and Management of Cloud Infrastructures](https://arxiv.org/abs/1310.2148)
