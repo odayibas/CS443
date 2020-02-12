@@ -40,7 +40,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 
 | Module | Week numbers and topics |
 |:-------|:------|
-| Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) <br/> [2. Features of cloud](../master/slides/chapter-2.pdf) <br/> [3. Cloud application architectures](](../master/slides/chapter-3.pdf) <br/> 4. Scalable system design <br/> 5. Microservices |
+| Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) <br/> [2. Features of cloud](../master/slides/chapter-2.pdf) <br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) <br/> 4. Scalable system design <br/> 5. Microservices |
 | Module-2: How to implement it? | 6. Anatomy of a datacenter (Network & Storage) <br/> 7. Virtualization & containers <br/> 8. Resource management & coordination <br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies|
 | Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies |
 
