@@ -55,7 +55,7 @@ __Q1:__ Which mobile development frameworks (iOS/Android/etc.) will be used duri
 __A1:__ Please do not consider that course as a "App development course". "Mobile App development" is not one of the learning outcome objectives. We will use "mobile applications" as the main theme for implementing a cloud computing solution.
 
 __Q2:__ Which cloud service provider (vendor) will be used during the course (tutorials and/or project)? <br/>
-__A2:__ Any tool/framework of a major vendor can be used (please refer to "catalog desc." part). Project deliverables (reports/presentation/demo/etc.) will include details about external services used (but it has no effect on grading). In terms of our learning objectives, we will be more into "how you use these services/tools in under which conditions".
+__A2:__ Any tool/framework of a major vendor can be used (please refer to "catalog desc." part). Project deliverables (reports/presentation/demo/etc.) will include details about external services used (but it has no effect on grading). In terms of our learning objectives, we will be more into "how you use these services/tools under which conditions".
 
 __Q3:__ Do you consider to use spare hour of the course (Wed. 16:40)? <br/>
 __A3:__ Not by default. Normally, we will not use the spare slot regularly but it will be used to make up any missed class hour. A notice mail will be sent to all registered students via STARS system in any such cases (as early as possible).
@@ -66,9 +66,10 @@ __A4:__ No, it is very difficult to find a book that covers the topics of that c
 __Q5:__ Is it possible to form a 5-person project team? <br />
 __A5:__ No, it is not possible.
 
-## External Links
+## Bookmarks
 That part will be used to provide external supporting content (e.g. blog posts, video tutorials) throughout the semester.
 
 - [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
 - [C2MS: Dynamic Monitoring and Management of Cloud Infrastructures](https://arxiv.org/abs/1310.2148)
 - [Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance)
+
