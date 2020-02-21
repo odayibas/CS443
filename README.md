@@ -40,7 +40,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
-| Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> 4. Scalable system design (w#3)<br/> 5. Microservices | Module content, Project definition, Team formation |
+| Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> 5. Microservices | Module content, Project definition, Team formation |
 | Module-2: How to implement it? | 6. Anatomy of a datacenter (Network & Storage) <br/> 7. Virtualization & containers <br/> 8. Resource management & coordination <br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies| Module content, Hands-on labs, Midterm, P. report(s) |
 | Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content, Project report(s), demo & presentations  |
 
@@ -72,4 +72,5 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 - [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
 - [C2MS: Dynamic Monitoring and Management of Cloud Infrastructures](https://arxiv.org/abs/1310.2148)
 - [Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance)
-
+- [Understanding the 8 fallacies of Distributed Systems](https://www.simpleorientedarchitecture.com/8-fallacies-of-distributed-systems/)
+- [CAP Theeorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
