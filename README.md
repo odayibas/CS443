@@ -38,15 +38,15 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 
 | | |
 |-|-|
-|__Project Topic__ | (to be announced) |
-|__Deliverables__  | (to be announced) |
+|__Project Topic__ | Design, implement and operate a cloud-native URL shortener application (B2B API, Mobile client, etc.) |
+|__Details__  | [Link](../master/project/project-definition.pdf) |
 
 ## Weekly Syllabus
 
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content, Project definition, Team formation |
-| Module-2: How to implement it? | 6. Anatomy of a datacenter (Network & Storage) <br/> 7. Virtualization & containers <br/> 8. Resource management & coordination <br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies| Module content, Hands-on labs, Midterm, P. report(s) |
+| Module-2: How to implement it? | 6. Anatomy of a datacenter (w#5) <br/> 7. Virtualization & containers <br/> 8. Resource management & coordination <br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies| Module content, Hands-on labs, Midterm, P. report(s) |
 | Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content, Project report(s), demo & presentations  |
 
 ## Weekly Schedule for 2019-2020 Spring Semester
