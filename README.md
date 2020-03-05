@@ -2,7 +2,7 @@
 
 ## Catalog Description
 
-Hands-on introduction to cloud computing and developing cloud-native (esp. mobile) applications. Cloud application models, services and infrastructures (virtualization, data center networking, distributed file systems), cluster computing systems (e.g. Spark), fundamental trade offs and methods (CAP theorem, NoSQL systems), architecture (modern n-tier, lambda, kappa) and applications (big data analytics, large-scale web services). Programming to develop scalable applications running on the cloud (e.g. AWS, Azure, GCP, Oracle).
+Hands-on introduction to cloud computing and developing cloud-native (esp. mobile) applications. Cloud application models, services and infrastructures (virtualization, data center networking, distributed file systems), cluster computing systems (e.g. Spark), fundamental trade offs and methods (CAP theorem, NoSQL systems), architecture (modern n-tier, lambda, kappa) and applications (bgitig data analytics, large-scale web services). Programming to develop scalable applications running on the cloud (e.g. AWS, Azure, GCP, Oracle).
 
 Basically, this course has the following learning outcomes:
 
@@ -38,15 +38,16 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 
 | | |
 |-|-|
-|__Project Topic__ | Design, implement and operate a cloud-native URL shortener application (B2B API, Mobile client, etc.) |
-|__Details__  | [Link](../master/project/project-definition.pdf) |
+|__Project Topic__ | Design, implement and operate a cloud-native/scalable URL shortener system (B2B API, Mobile client, etc.) |
+|__Details__  | [Project definition](../master/project/project-definition.pdf) |
+|__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
 
 ## Weekly Syllabus
 
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
-| Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content, Project definition, Team formation |
-| Module-2: How to implement it? | 6. Anatomy of a datacenter (w#5) <br/> 7. Virtualization & containers <br/> 8. Resource management & coordination <br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies| Module content, Hands-on labs, Midterm, P. report(s) |
+| Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content, [Project definition](../master/project/project-definition.pdf), Team formation |
+| Module-2: How to implement it? | [6. Anatomy of a datacenter](../master/slides/chapter-6.pdf) (w#5) <br/> 7. Virtualization & containers <br/> 8. Resource management & coordination <br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies| Module content, Hands-on labs, Midterm, P. report(s) |
 | Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content, Project report(s), demo & presentations  |
 
 ## Weekly Schedule for 2019-2020 Spring Semester
@@ -88,3 +89,6 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
 * [Zalando REST API Guidelines](https://opensource.zalando.com/restful-api-guidelines/) & [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 * [How to Build 12 Factor Microservices on Docker](https://hub.packtpub.com/how-to-build-12-factor-design-microservices-on-docker-part-1/)
+* [Why Microsoft wants to put data centers at the bottom of the ocean](https://techcrunch.com/2018/06/08/why-microsoft-wants-to-put-data-centers-at-the-bottom-of-the-ocean/)
+* [Networking for the Cloud: Challenges and Trends](https://www.researchgate.net/publication/273249689_Networking_for_the_Cloud_Challenges_and_Trends)
+* [Review and Analysis of Networking Challenges in Cloud Computing](https://arxiv.org/pdf/1601.05329.pdf)
