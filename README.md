@@ -93,3 +93,4 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Why Microsoft wants to put data centers at the bottom of the ocean](https://techcrunch.com/2018/06/08/why-microsoft-wants-to-put-data-centers-at-the-bottom-of-the-ocean/)
 * [Networking for the Cloud: Challenges and Trends](https://www.researchgate.net/publication/273249689_Networking_for_the_Cloud_Challenges_and_Trends)
 * [Review and Analysis of Networking Challenges in Cloud Computing](https://arxiv.org/pdf/1601.05329.pdf)
+* [Containers from scratch](https://youtu.be/8fi7uSYlOdc)
