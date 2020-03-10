@@ -43,6 +43,15 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 |__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
 | __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
 
+## Midterm
+
+| | |
+|-|-|
+|__Date__| 2020-04-04 |
+|__Time__| 14:00 - 16:00 |
+|__Location__| EB-202, EB-203 |
+|__Proctors__| Sepehr Bakhshi, Mousa Farshkar Azari |
+
 ## Weekly Syllabus
 
 | Module | Topics & Week Numbers | Notes |
@@ -94,3 +103,10 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Networking for the Cloud: Challenges and Trends](https://www.researchgate.net/publication/273249689_Networking_for_the_Cloud_Challenges_and_Trends)
 * [Review and Analysis of Networking Challenges in Cloud Computing](https://arxiv.org/pdf/1601.05329.pdf)
 * [Containers from scratch](https://youtu.be/8fi7uSYlOdc)
+
+## References
+
+* https://samnewman.io/books/building_microservices/
+* https://conferences.oreilly.com/software-architecture/sa-eu-2016/public/schedule/detail/52350
+* https://speakerdeck.com/thockin/kubernetes-understanding-pods-vs-containers
+
