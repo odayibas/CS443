@@ -42,14 +42,17 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 |__Details__  | [Project definition](../master/project/project-definition.pdf) |
 |__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
 | __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
+| __Deadlines__ | Design reports: (to be announced) <br /> Final reports: (to be announced) |
+| __Presentations__ | (to be announced) |
 
-## Midterm
+## Midterm Exam
+__ATTENTION:__ All classes, midterm exams and similar academic activities that were previously scheduled for March 16 through April 5 have been postponed. Therefore, logistics of the midterm will be rescheduled.
 
 | | |
 |-|-|
-|__Date__| 2020-04-04 |
-|__Time__| 14:00 - 16:00 |
-|__Location__| EB-202, EB-203 |
+|__Date__| ~~2020-04-04~~ (to be announced) |
+|__Time__| ~~14:00 - 16:00~~ (to be announced) |
+|__Location__| ~~EB-202, EB-203~~ (to be announced) |
 |__Proctors__| Sepehr Bakhshi, Mousa Farshkar Azari |
 
 ## Weekly Syllabus
@@ -109,4 +112,3 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * https://samnewman.io/books/building_microservices/
 * https://conferences.oreilly.com/software-architecture/sa-eu-2016/public/schedule/detail/52350
 * https://speakerdeck.com/thockin/kubernetes-understanding-pods-vs-containers
-
