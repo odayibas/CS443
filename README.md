@@ -42,7 +42,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 |__Details__  | [Project definition](../master/project/project-definition.pdf) |
 |__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
 | __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
-| __Deadlines__ | Design reports: (to be announced) <br /> Final reports: (to be announced) |
+| __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: 2020-04-17 |
 | __Presentations__ | (to be announced) |
 
 ## Midterm Exam
@@ -106,6 +106,7 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Networking for the Cloud: Challenges and Trends](https://www.researchgate.net/publication/273249689_Networking_for_the_Cloud_Challenges_and_Trends)
 * [Review and Analysis of Networking Challenges in Cloud Computing](https://arxiv.org/pdf/1601.05329.pdf)
 * [Containers from scratch](https://youtu.be/8fi7uSYlOdc)
+* [Email crash crippled federal health offices as coronavirus was first gaining grounds in U.S.](https://www.politico.com/amp/news/2020/03/10/email-crash-coronavirus-hhs-125302)
 
 ## References
 
