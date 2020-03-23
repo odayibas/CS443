@@ -60,13 +60,15 @@ __ATTENTION:__ All classes, midterm exams and similar academic activities that w
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content,<br/> [Project definition](../master/project/project-definition.pdf),<br/> Team formations [(Teams)](../master/project/preject-teams-2020Spring.pdf) |
-| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> 8. Resource management & coordination <br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies| Module content,<br/> Hands-on labs,<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
+| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> 8. Resource management & coordination (w#8)<br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
 | Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content,<br/> Project report(s),<br/> demo & presentations  |
 
 ## Weekly Schedule for 2019-2020 Spring Semester
 
 * Monday 13:40 - 15:30 (EA-Z03)
 * Wednesday 15:40 - 16:30 (EA-Z03)
+
+__ATTENTION:__ https://w3.bilkent.edu.tr/www/bilkent-universitesinde-uzaktan-egitim/
 
 ## FAQ
 
@@ -107,9 +109,18 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Review and Analysis of Networking Challenges in Cloud Computing](https://arxiv.org/pdf/1601.05329.pdf)
 * [Containers from scratch](https://youtu.be/8fi7uSYlOdc)
 * [Email crash crippled federal health offices as coronavirus was first gaining grounds in U.S.](https://www.politico.com/amp/news/2020/03/10/email-crash-coronavirus-hhs-125302)
+* [Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus](https://github.com/GoogleCloudPlatform/microservices-demo)
+* [Resource Management in Cloud Computing: Taxonomy, Prospects and Challenges](https://www.researchgate.net/publication/280918541_Resource_Management_in_Cloud_Computing_Taxonomy_Prospects_and_Challenges)
+* [Predictive CPU isolation of containers at Netflix](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+* [Container-based Network Function Virtualization for Software-Defined Networks](https://pdfs.semanticscholar.org/dd1c/74eccb957aba63faf0390c65229b93d5eea2.pdf)
+* [Control strategies for predictable brownouts in cloud computing](https://www.sciencedirect.com/science/article/pii/S1474667016416940)
+* [Consensus in the Cloud: Paxos Systems Demystified](https://cse.buffalo.edu/tech-reports/2016-02.orig.pdf)
 
 ## References
 
+* https://link.springer.com/book/10.1007/978-1-4419-6524-0
 * https://samnewman.io/books/building_microservices/
 * https://conferences.oreilly.com/software-architecture/sa-eu-2016/public/schedule/detail/52350
 * https://speakerdeck.com/thockin/kubernetes-understanding-pods-vs-containers
+* https://www.slideshare.net/YifanXing/consensus-algorithmspaperswelove2018sep
+* https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf
