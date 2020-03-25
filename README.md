@@ -65,10 +65,16 @@ __ATTENTION:__ All classes, midterm exams and similar academic activities that w
 
 ## Weekly Schedule for 2019-2020 Spring Semester
 
+### Regular Classes (moved to the remote instruction environment until April 5)
+
 * Monday 13:40 - 15:30 (EA-Z03)
 * Wednesday 15:40 - 16:30 (EA-Z03)
 
-__ATTENTION:__ https://w3.bilkent.edu.tr/www/bilkent-universitesinde-uzaktan-egitim/
+### Remote Instruction (same time slots are used)
+
+* Official announcement: https://w3.bilkent.edu.tr/bilkent/remote-teaching-at-bilkent-university/
+* Details for Zoom: https://web4.bilkent.edu.tr/zoom/
+* There is no any upfront arrangement for recording the Zoom sessions. Therefore, please continue to take regular notes like you did in the physical classroom environment.
 
 ## FAQ
 
@@ -115,6 +121,7 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Container-based Network Function Virtualization for Software-Defined Networks](https://pdfs.semanticscholar.org/dd1c/74eccb957aba63faf0390c65229b93d5eea2.pdf)
 * [Control strategies for predictable brownouts in cloud computing](https://www.sciencedirect.com/science/article/pii/S1474667016416940)
 * [Consensus in the Cloud: Paxos Systems Demystified](https://cse.buffalo.edu/tech-reports/2016-02.orig.pdf)
+* [Observability to Better Serverless Apps](https://www.infoq.com/presentations/serverless-observability-2018/)
 
 ## References
 
@@ -123,4 +130,7 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * https://conferences.oreilly.com/software-architecture/sa-eu-2016/public/schedule/detail/52350
 * https://speakerdeck.com/thockin/kubernetes-understanding-pods-vs-containers
 * https://www.slideshare.net/YifanXing/consensus-algorithmspaperswelove2018sep
+* https://muratbuffalo.blogspot.com/2015/10/consensus-in-wild.html
 * https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf
+* https://agenda.infn.it/event/19049/contributions/98119/attachments/66836/81864/FaaS-Serverless-SOSC19.pdf
+* https://martinfowler.com/articles/serverless.html
