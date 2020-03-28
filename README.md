@@ -46,14 +46,13 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 | __Presentations__ | (to be announced) |
 
 ## Midterm Exam
-__ATTENTION:__ All classes, midterm exams and similar academic activities that were previously scheduled for March 16 through April 5 have been postponed. Therefore, logistics of the midterm will be rescheduled.
+__ATTENTION:__ The distance learning will continue until the end of the semester. The university is also in the process of developing distance assessment methods. Please follow the official announcements.
 
 | | |
 |-|-|
 |__Date__| ~~2020-04-04~~ (to be announced) |
 |__Time__| ~~14:00 - 16:00~~ (to be announced) |
 |__Location__| ~~EB-202, EB-203~~ (to be announced) |
-|__Proctors__| Sepehr Bakhshi, Mousa Farshkar Azari |
 
 ## Weekly Syllabus
 
@@ -65,13 +64,14 @@ __ATTENTION:__ All classes, midterm exams and similar academic activities that w
 
 ## Weekly Schedule for 2019-2020 Spring Semester
 
-### Regular Classes (moved to the remote instruction environment until April 5)
+### Regular Classes (first six weeks of the classes)
 
 * Monday 13:40 - 15:30 (EA-Z03)
 * Wednesday 15:40 - 16:30 (EA-Z03)
 
-### Remote Instruction (same time slots are used)
+### Remote Instruction (the rest of the tern)
 
+* Regular time slots are also used for remote instructions.
 * Official announcement: https://w3.bilkent.edu.tr/bilkent/remote-teaching-at-bilkent-university/
 * Details for Zoom: https://web4.bilkent.edu.tr/zoom/
 * There is no any upfront arrangement for recording the Zoom sessions. Therefore, please continue to take regular notes like you did in the physical classroom environment.
