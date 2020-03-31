@@ -19,6 +19,10 @@ Basically, this course has the following learning outcomes:
 
 Please refer to the web page of the course.
 
+## Minimum Requirements to Qualify for the Final Exam
+
+Please refer to the web page of the course.
+
 ## Assessment Methods
 
 | Item      | Type          | Weight  |
@@ -27,10 +31,6 @@ Please refer to the web page of the course.
 | Midterm   | Essay/written | 30%     |
 | Project   | Implementation| 30%     |
 | Final     | Essay/written | 35%     |
-
-## Minimum Requirements to Qualify for the Final Exam
-
-Please refer to the web page of the course.
 
 ## Project
 
@@ -46,7 +46,8 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 | __Presentations__ | (to be announced) |
 
 ## Midterm Exam
-__ATTENTION:__ The distance learning will continue until the end of the semester. The university is also in the process of developing distance assessment methods. Please follow the official announcements.
+
+__ATTENTION:__ The distance learning will continue until the end of the semester. The university is also in the process of developing distance assessment methods. Please follow the official announcements and remember TA is the primary point of contact to coordinate the logistics.
 
 | | |
 |-|-|
@@ -61,6 +62,14 @@ __ATTENTION:__ The distance learning will continue until the end of the semester
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content,<br/> [Project definition](../master/project/project-definition.pdf),<br/> Team formations [(Teams)](../master/project/preject-teams-2020Spring.pdf) |
 | Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
 | Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content,<br/> Project report(s),<br/> demo & presentations  |
+
+| Hands-on Labs | Date | Week # | Prerequisites |
+|:--------------|:----:|:-----:|:------|
+| Docker | 2020-03-11 | 6 |[Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#setting-the-environment)  |
+| Prometheus | 2020-03-23 | 8 | [Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#setting-the-environment) |
+| Kubernetes | 2020-03-30 | 9 |[Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#prerequisites-for-the-part-3)|
+| Quarkus | 2020-04-01 | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
+| Flutter | 2020-04-06 | 10 | |
 
 ## Weekly Schedule for 2019-2020 Spring Semester
 
