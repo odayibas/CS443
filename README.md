@@ -60,8 +60,8 @@ __ATTENTION:__ The distance learning will continue until the end of the semester
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content,<br/> [Project definition](../master/project/project-definition.pdf),<br/> Team formations [(Teams)](../master/project/preject-teams-2020Spring.pdf) |
-| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> 9. Programming models <br/> 10. Cloud-native application development <br/> 11. Mobile applications & case studies| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
-| Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content,<br/> Project report(s),<br/> demo & presentations  |
+| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> ~~9. Programming models~~ <br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> 11. Mobile applications & case studies| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
+| Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content,<br/> Project report(s),<br/> demo & presentations |
 
 | Hands-on Labs | Date | Week # | Prerequisites |
 |:--------------|:----:|:-----:|:------|
@@ -69,7 +69,7 @@ __ATTENTION:__ The distance learning will continue until the end of the semester
 | Prometheus | 2020-03-23 | 8 | [Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#setting-the-environment) |
 | Kubernetes | 2020-03-30 | 9 |[Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#prerequisites-for-the-part-3)|
 | Quarkus | 2020-04-01 | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
-| Flutter | 2020-04-06 | 10 | |
+| Flutter | 2020-04-06 | 10 | TBD |
 
 ## Weekly Schedule for 2019-2020 Spring Semester
 
@@ -78,7 +78,7 @@ __ATTENTION:__ The distance learning will continue until the end of the semester
 * Monday 13:40 - 15:30 (EA-Z03)
 * Wednesday 15:40 - 16:30 (EA-Z03)
 
-### Remote Instruction (the rest of the tern)
+### Remote Instruction (the rest of the term)
 
 * Regular time slots are also used for remote instructions.
 * Official announcement: https://w3.bilkent.edu.tr/bilkent/remote-teaching-at-bilkent-university/
@@ -131,11 +131,16 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Control strategies for predictable brownouts in cloud computing](https://www.sciencedirect.com/science/article/pii/S1474667016416940)
 * [Consensus in the Cloud: Paxos Systems Demystified](https://cse.buffalo.edu/tech-reports/2016-02.orig.pdf)
 * [Observability to Better Serverless Apps](https://www.infoq.com/presentations/serverless-observability-2018/)
+* [The Single Most Important Internal Email in the History of Amazon](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/)
+* [Introducing Quarkus: a next-generation Kubernetes native Java framework](https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework/)
+* [Lightweight cloud-native Java applications](https://medium.com/graalvm/lightweight-cloud-native-java-applications-35d56bc45673)
+* [Top 10 Things To Do With GraalVM](https://medium.com/graalvm/graalvm-ten-things-12d9111f307d)
 
 ## References
 
 * https://link.springer.com/book/10.1007/978-1-4419-6524-0
 * https://samnewman.io/books/building_microservices/
+* https://landing.google.com/sre/books/
 * https://conferences.oreilly.com/software-architecture/sa-eu-2016/public/schedule/detail/52350
 * https://speakerdeck.com/thockin/kubernetes-understanding-pods-vs-containers
 * https://www.slideshare.net/YifanXing/consensus-algorithmspaperswelove2018sep
