@@ -38,11 +38,11 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 
 | | |
 |-|-|
-|__Topic__ | Design, implement and operate a cloud-native/scalable URL shortener system (B2B API, Mobile client, etc.) |
+|__Topic__ | Design, implement and operate a cloud-native URL shortener system (B2B API, Mobile client, etc.) |
 |__Details__  | [Project definition](../master/project/project-definition.pdf) |
 |__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
 | __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
-| __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: 2020-04-17 |
+| __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: 2020-04-17 <br /> **Send your deliverables in an email to TA** |
 | __Presentations__ | (to be announced) |
 
 ## Midterm Exam
