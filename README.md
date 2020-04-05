@@ -69,7 +69,7 @@ __ATTENTION:__ The distance learning will continue until the end of the semester
 | Prometheus | 2020-03-23 | 8 | [Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#setting-the-environment) |
 | Kubernetes | 2020-03-30 | 9 |[Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#prerequisites-for-the-part-3)|
 | Quarkus | 2020-04-01 | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
-| Flutter | 2020-04-06 | 10 | TBD |
+| Flutter | 2020-04-06 | 10 | https://flutter.dev/docs/get-started/install |
 
 ## Weekly Schedule for 2019-2020 Spring Semester
 
