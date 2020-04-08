@@ -42,7 +42,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 |__Details__  | [Project definition](../master/project/project-definition.pdf) |
 |__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
 | __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
-| __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: 2020-04-17 <br /> **Send your deliverables in an email to TA** |
+| __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: 2020-04-17 <br /> **Send your deliverables to TA (in an email)** |
 | __Presentations__ | (to be announced) |
 
 ## Midterm Exam
@@ -60,7 +60,7 @@ __ATTENTION:__ The distance learning will continue until the end of the semester
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content,<br/> [Project definition](../master/project/project-definition.pdf),<br/> Team formations [(Teams)](../master/project/preject-teams-2020Spring.pdf) |
-| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> ~~9. Programming models~~ <br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> 11. Mobile applications & case studies| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
+| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> ~~9. Programming models~~ <br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-10.pdf) (w#10)| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
 | Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content,<br/> Project report(s),<br/> demo & presentations |
 
 | Hands-on Labs | Date | Week # | Prerequisites |
@@ -135,6 +135,9 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Introducing Quarkus: a next-generation Kubernetes native Java framework](https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework/)
 * [Lightweight cloud-native Java applications](https://medium.com/graalvm/lightweight-cloud-native-java-applications-35d56bc45673)
 * [Top 10 Things To Do With GraalVM](https://medium.com/graalvm/graalvm-ten-things-12d9111f307d)
+* [Sample Flutter Application Architectures](https://github.com/brianegan/flutter_architecture_samples)
+* [Measuring API Developer Experience (DX)](https://blog.inten.to/measuring-api-developer-experience-91b5c19645b0)
+* [API DX Resources](https://www.moesif.com/blog/api-guide/api-developer-experience/)
 
 ## References
 
@@ -148,3 +151,7 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf
 * https://agenda.infn.it/event/19049/contributions/98119/attachments/66836/81864/FaaS-Serverless-SOSC19.pdf
 * https://martinfowler.com/articles/serverless.html
+* https://medium.com/gradeup/mobile-development-approaches-and-flutter-architecture-flutter-part-i-a7e08838c97a
+* https://www.slideshare.net/sanjeev-sharma/enterprise-mobile-app-ux-designing-from-ui-to-backend
+* https://medium.com/@albertcavalcante/what-is-dx-developer-experience-401a0e44a9d9
+* https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
