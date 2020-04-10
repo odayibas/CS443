@@ -25,10 +25,11 @@ Please refer to the web page of the course.
 
 ## Assessment Methods
 
+__ATTENTION:__ There will be no midterm exam due to the COVID-19 precautions.
 | Item      | Type          | Weight  |
 |:--------- |:------------- | -------:|
 | Attendance| N/A           | 5%      |
-| Midterm   | Essay/written | 30%     |
+| ~~Midterm~~   | ~~Essay/written~~ | ~~30%~~     |
 | Project   | Implementation| 30%     |
 | Final     | Essay/written | 35%     |
 
@@ -45,15 +46,6 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 | __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: 2020-04-17 <br /> **Send your deliverables to TA (in an email)** |
 | __Presentations__ | (to be announced) |
 
-## Midterm Exam
-
-__ATTENTION:__ The distance learning will continue until the end of the semester. The university is also in the process of developing distance assessment methods. Please follow the official announcements and remember TA is the primary point of contact to coordinate the logistics.
-
-| | |
-|-|-|
-|__Date__| ~~2020-04-04~~ (to be announced) |
-|__Time__| ~~14:00 - 16:00~~ (to be announced) |
-|__Location__| ~~EB-202, EB-203~~ (to be announced) |
 
 ## Weekly Syllabus
 
