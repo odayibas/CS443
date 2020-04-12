@@ -77,6 +77,10 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 * Details for Zoom: https://web4.bilkent.edu.tr/zoom/
 * There is no any upfront arrangement for recording the Zoom sessions. Therefore, please continue to take regular notes like you did in the physical classroom environment.
 
+### NEWS
+
+* There will be no class tomorrow (2020-04-13). We will use the spare hour of this week (on 2020-04-15, Wed.).
+
 ## FAQ
 
 Below you can find the questions received during the first week of classes (hoping that will help you to decide on taking the course before add/drop week)
