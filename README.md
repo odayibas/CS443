@@ -26,12 +26,12 @@ Please refer to the web page of the course.
 ## Assessment Methods
 
 __ATTENTION:__ There will be no midterm exam due to the COVID-19 precautions.
-| Item      | Type          | Weight  |
-|:--------- |:------------- | -------:|
-| Attendance| N/A           | 5%      |
-| ~~Midterm~~   | ~~Essay/written~~ | ~~30%~~     |
-| Project   | Implementation| 30%     |
-| Final     | Essay/written | 35%     |
+| Item      | Type          | Weight  | New Weight |
+|:--------- |:------------- | -------:|-----:|
+| Attendance| N/A           | 5%      | 7%|
+| ~~Midterm~~   | ~~Essay/written~~ | ~~30%~~ | N/A|
+| Project   | Implementation| 30%     | 43%|
+| Final     | Essay/written | 35%     | 50%|
 
 ## Project
 
@@ -43,7 +43,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 |__Details__  | [Project definition](../master/project/project-definition.pdf) |
 |__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
 | __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
-| __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: 2020-04-17 <br /> **Send your deliverables to TA (in an email)** |
+| __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: ~~2020-04-17~~ 2020-04-24 <br /> **Send your deliverables to TA (in an email)** |
 | __Presentations__ | (to be announced) |
 
 
@@ -53,7 +53,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content,<br/> [Project definition](../master/project/project-definition.pdf),<br/> Team formations [(Teams)](../master/project/preject-teams-2020Spring.pdf) |
 | Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> ~~9. Programming models~~ <br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#10)| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> ~~Midterm~~,<br/> P. report(s) |
-| Module-3: How to manage it? | 12. Migration concerns (security & privacy) <br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content,<br/> Project report(s),<br/> demo & presentations |
+| Module-3: How to manage it? | [12. Migrating to cloud](../master/slides/chapter-12.pdf) (w11)<br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content,<br/> Project report(s),<br/> demo & presentations |
 
 | Hands-on Labs | Date | Week # | Prerequisites |
 |:--------------|:----:|:-----:|:------|
@@ -79,7 +79,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 
 ### NEWS
 
-* There will be no class tomorrow (2020-04-13). We will use the spare hour of this week (on 2020-04-15, Wed.).
+* The deadline for final report has been extended from April 17 to April 24.
 
 ## FAQ
 
@@ -115,6 +115,7 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
 * [Zalando REST API Guidelines](https://opensource.zalando.com/restful-api-guidelines/) & [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 * [How to Build 12 Factor Microservices on Docker](https://hub.packtpub.com/how-to-build-12-factor-design-microservices-on-docker-part-1/)
+* [Google reinforces undersea cables after shark bites](https://www.theguardian.com/technology/2014/aug/14/google-undersea-fibre-optic-cables-shark-attacks)
 * [Why Microsoft wants to put data centers at the bottom of the ocean](https://techcrunch.com/2018/06/08/why-microsoft-wants-to-put-data-centers-at-the-bottom-of-the-ocean/)
 * [Networking for the Cloud: Challenges and Trends](https://www.researchgate.net/publication/273249689_Networking_for_the_Cloud_Challenges_and_Trends)
 * [Review and Analysis of Networking Challenges in Cloud Computing](https://arxiv.org/pdf/1601.05329.pdf)
@@ -134,10 +135,12 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Sample Flutter Application Architectures](https://github.com/brianegan/flutter_architecture_samples)
 * [Measuring API Developer Experience (DX)](https://blog.inten.to/measuring-api-developer-experience-91b5c19645b0)
 * [API DX Resources](https://www.moesif.com/blog/api-guide/api-developer-experience/)
+* [The enterprise "barrier-to-exit" to cloud computing](http://blog.jamesurquhart.com/2008/12/enterprise-barrier-to-exit-to-cloud.html)
 
 ## References
 
 * https://link.springer.com/book/10.1007/978-1-4419-6524-0
+* https://www.oreilly.com/library/view/cloud-application-architectures/9780596157647/
 * https://samnewman.io/books/building_microservices/
 * https://landing.google.com/sre/books/
 * https://conferences.oreilly.com/software-architecture/sa-eu-2016/public/schedule/detail/52350
@@ -151,3 +154,4 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * https://www.slideshare.net/sanjeev-sharma/enterprise-mobile-app-ux-designing-from-ui-to-backend
 * https://medium.com/@albertcavalcante/what-is-dx-developer-experience-401a0e44a9d9
 * https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+* https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
