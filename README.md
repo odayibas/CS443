@@ -44,6 +44,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 |__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
 | __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
 | __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: ~~2020-04-17~~ 2020-04-24 <br /> **Send your deliverables to TA (in an email)** |
+| __Feedbacks__ | [Feedback Sessions #1: System Designs](../master/project/project-feedback-1.pdf) |
 | __Presentations__ | (to be announced) |
 
 
@@ -53,7 +54,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content,<br/> [Project definition](../master/project/project-definition.pdf),<br/> Team formations [(Teams)](../master/project/preject-teams-2020Spring.pdf) |
 | Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> ~~9. Programming models~~ <br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#10)| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> ~~Midterm~~,<br/> P. report(s) |
-| Module-3: How to manage it? | [12. Migrating to cloud](../master/slides/chapter-12.pdf) (w11)<br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content,<br/> Project report(s),<br/> demo & presentations |
+| Module-3: How to manage it? | [12. Migrating to cloud](../master/slides/chapter-12.pdf) (w#11)<br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies | Module content,<br/> Project report(s),<br/> demo & presentations |
 
 | Hands-on Labs | Date | Week # | Prerequisites |
 |:--------------|:----:|:-----:|:------|
@@ -136,6 +137,7 @@ That part will be used to provide external supporting content (e.g. blog posts, 
 * [Measuring API Developer Experience (DX)](https://blog.inten.to/measuring-api-developer-experience-91b5c19645b0)
 * [API DX Resources](https://www.moesif.com/blog/api-guide/api-developer-experience/)
 * [The enterprise "barrier-to-exit" to cloud computing](http://blog.jamesurquhart.com/2008/12/enterprise-barrier-to-exit-to-cloud.html)
+* [Mobile App Marketing — A guide to the main KPIs](https://medium.com/@hello_80136/mobile-app-marketing-a-guide-to-the-main-kpis-part-1-9ce238e45dcb)
 
 ## References
 
