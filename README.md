@@ -26,6 +26,7 @@ Please refer to the web page of the course.
 ## Assessment Methods
 
 __ATTENTION:__ There will be no midterm exam due to the COVID-19 precautions.
+
 | Item      | Type          | Weight  | New Weight |
 |:--------- |:------------- | -------:|-----:|
 | Attendance| N/A           | 5%      | 7%|
@@ -45,7 +46,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 | __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
 | __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: ~~2020-04-17~~ 2020-04-24 <br /> **Send your deliverables to TA (in an email)** |
 | __Feedbacks__ | [Feedback Sessions #1: System Designs](../master/project/project-feedback-1.pdf) |
-| __Presentations__ | (to be announced) |
+| __Presentation & Demo__ | Each group will have 15min. to present (ordered list). <br /> __1st Session (2020-05-04):__ Group #9, #1, #16, #2, #14, #10, #13, #8 <br /> __2nd Session (2020-05-06):__ Group #3, #15, #7, #4, #5, #12, #6, #11|
 
 
 ## Weekly Syllabus
