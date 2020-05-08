@@ -46,7 +46,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 | __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
 | __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: ~~2020-04-17~~ 2020-04-24 <br /> **Send your deliverables to TA (in an email)** |
 | __Feedbacks__ | [Feedback Sessions #1: System Designs](../master/project/project-feedback-1.pdf) |
-| __Presentation & Demo__ | Each group have 15 min. to present (ordered list). <br /> The 3rd session starts at 17:40 <br /> The order is updated by considering groups with members who take EEE391 course<br /> __1st Session (2020-05-04):__ Group #9, #1, #16, #2, #13 <br /> __2nd Session (2020-05-06):__ Group #3, #7, #12, #11, #10 <br /> __3rd Session (2020-05-06):__ Group #8,  #15, #4, #5, #6 <br /> __4th Session (TBD):__ Group #14 |
+| __Presentation & Demo__ | Each group have 15 min. to present (ordered list). <br /> __1st Session (2020-05-04):__ Group #9, #1, #16, #2, #13 <br /> __2nd Session (2020-05-06):__ Group #3, #7, #12, #11, #10, #8, #15 <br /> __3rd Session (2020-05-06):__ Group #10, #4, #5, #6 <br /> __4th Session (TBD):__ Group #14 |
 | __Grades__ | [Design reports](../master/project/project-grading-design-2020spring.pdf)|
 
 ## Weekly Syllabus
@@ -90,7 +90,7 @@ __Q2:__ Which cloud service provider (vendor) will be used during the course (tu
 __A2:__ Any tool/framework of a major vendor can be used (please refer to "catalog desc." part). Project deliverables (reports/presentation/demo/etc.) will include details about external services used (but it has no effect on grading). In terms of our learning objectives, we will be more into "how you use these services/tools under which conditions".
 
 __Q3:__ Do you consider to use spare hour of the course (Wed. 16:40)? <br/>
-__A3:__ Not by default. Normally, we will not use the spare slot regularly but it will be used to make up any missed class hour. A notice mail will be sent to all registered students via STARS system in any such cases (as early as possible).
+__A3:__ Not by default. We will not use the spare slot regularly but it will be used to make up any missed class hour. A notice mail will be sent to all registered students via STARS system in any such cases (as early as possible).
 
 __Q4:__ Are you planning to use any textbook? <br />
 __A4:__ No, it is very difficult to find a book that covers the topics of that course. The main objective is to design a course that conveys the both technical and business sides of cloud systems. Therefore, following this web page for slides (I will upload slides weekly) and "Bookmarks" list (probably that list will include additional infomative content which is referred in the course but not limited to that) is the best way to cope with it.
@@ -135,6 +135,7 @@ External supporting content (e.g. blog posts, video tutorials).
 * [API DX Resources](https://www.moesif.com/blog/api-guide/api-developer-experience/)
 * [The enterprise "barrier-to-exit" to cloud computing](http://blog.jamesurquhart.com/2008/12/enterprise-barrier-to-exit-to-cloud.html)
 * [Mobile App Marketing — A guide to the main KPIs](https://medium.com/@hello_80136/mobile-app-marketing-a-guide-to-the-main-kpis-part-1-9ce238e45dcb)
+* [Why Zoom Chose Oracle Cloud Over AWS and Maybe You Should Too](https://www.lastweekinaws.com/blog/why-zoom-chose-oracle-cloud-over-aws-and-maybe-you-should-too/)
 
 ## References
 
@@ -143,6 +144,16 @@ External supporting content (e.g. blog posts, video tutorials).
 * https://samnewman.io/books/building_microservices/
 * https://landing.google.com/sre/books/
 * https://conferences.oreilly.com/software-architecture/sa-eu-2016/public/schedule/detail/52350
+* https://www.slideshare.net/jboner/scalability-availability-stability-patterns
+* https://www.slideshare.net/srikrupa5/dns-security-presentation-issa
+* https://github.com/donnemartin/system-design-primer
+* http://horicky.blogspot.com.tr/2010/10/scalable-system-design-patterns.html
+* https://www.youtube.com/watch?v=vg5onp8TU6Q
+* http://www.slideshare.net/tmatyashovsky/from-cache-to-in-memory-data-grid-introduction-to-hazelcast
+* https://www.youtube.com/watch?v=1KRYH75wgy4
+* https://github.com/OWASP/Top10/blob/master/2017/OWASP%20Top%2010-2017%20(en).pdf
+* https://github.com/FallibleInc/security-guide-for-developers
+* https://www.youtube.com/watch?v=PE4gwstWhmc
 * https://speakerdeck.com/thockin/kubernetes-understanding-pods-vs-containers
 * https://www.slideshare.net/YifanXing/consensus-algorithmspaperswelove2018sep
 * https://muratbuffalo.blogspot.com/2015/10/consensus-in-wild.html
