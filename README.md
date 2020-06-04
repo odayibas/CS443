@@ -49,6 +49,29 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 | __Presentation & Demo__ | Each group have 15 min. to present (ordered list). <br /> __1st Session (2020-05-04):__ Group #9, #1, #16, #2, #13 <br /> __2nd Session (2020-05-06):__ Group #3, #7, #12, #11, #10, #8, #15 <br /> __3rd Session (2020-05-06):__ Group #10, #4, #5, #6 <br /> __4th Session (2020-05-13):__ Group #14 |
 | __Grading__ | [Overall scores](../master/project/project-grading-project-2020spring.pdf)|
 
+## Final Exam
+As you already know, the final will be a take-home exam due to the COVID-19 precautions and the class' sound concerns on a Zoom exam. The questions will be published here at 2020-06-11 11:30AM (GMT+3). Email announcement will also be sent (including a link). You will have one full day (24 hours) to complete your submission.
+
+Please keep in mind, take-home exams are not an easy option. Answering the questions well requires more than just copying information straight from texts. __You should study just as you would for any other exam__. Having written resources to refer to might mean you don't have to memorise as much information, but you still need to be able to apply it effectively. This means you must fully understand and be familiar with the content and materials of the course so you can use the appropriate information.
+
+__Instructions:__
+
+* Plagiarism or copying solutions is strictly forbidden. Answer all questions by yourself. If you receive help from anyone in and/or outside the class, explicitly state that you have, and identify the person or source from where you have received this help.
+
+* The points for solutions that have been shared (copied) among a group of students (i.e. identitical solutions/answers) will be equally divided among them under the best of circumstances.
+
+* Submit your answers in pdf format to Mr. Mousa Farshkar Azari at mousa.farshkar@bilkent.edu.tr
+
+* Do not submit rotated or upside down, tiny images of your answers. All pages must be contained in a single pdf file (not an archived folders like a zip file). Make sure that your print size is legible and not small.
+
+* Use your last name to name your pdf file. Example: sahin.pdf, izci.pdf, etc.
+
+* Hardcopy submissions shall not be accepted for grading.
+
+* All submissions must be made by 2020-06-12 11:30AM (GMT+3).
+
+* Late submissions shall be subject to surcharge of negative points. If you submit your exam within 2 hours of the submission deadline, you will lose 5 points. Another 5 points will be deducted from your total score for each additional 2 hours of late submission.
+
 ## Weekly Syllabus
 
 | Module | Topics & Week Numbers | Notes |
