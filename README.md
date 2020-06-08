@@ -54,13 +54,19 @@ As you already know, the final will be a take-home exam due to the COVID-19 prec
 
 Please keep in mind, take-home exams are not an easy option. Answering the questions well requires more than just copying information straight from texts. __You should study just as you would for any other exam__. Having written resources to refer to might mean you don't have to memorise as much information, but you still need to be able to apply it effectively. This means you must fully understand and be familiar with the content and materials of the course so you can use the appropriate information.
 
+__Coverage:__
+
+* The final exam covers the entire semester’s work (except "chapter 9" and "week#14 - experience talk" content).
+
 __Instructions:__
 
-* Plagiarism or copying solutions is strictly forbidden. Answer all questions by yourself. If you receive help from anyone in and/or outside the class, explicitly state that you have, and identify the person or source from where you have received this help.
+* [Plagiarism](https://integrity.mit.edu/handbook/what-plagiarism) or copying solutions is strictly forbidden. Answer all questions by yourself. If you receive help from anyone in and/or outside the class, explicitly state that you have, and identify the person or source from where you have received this help.
 
 * The points for solutions that have been shared (copied) among a group of students (i.e. identitical solutions/answers) will be equally divided among them under the best of circumstances.
 
 * Submit your answers in pdf format to Mr. Mousa Farshkar Azari at mousa.farshkar@bilkent.edu.tr
+
+* Do not use "write down + take a picture + submit" method. Use "type down + export + submit" method. Although you are allowed to draw diagrams by hand (and import into your document), it is not very convenient (for both sides).
 
 * Do not submit rotated or upside down, tiny images of your answers. All pages must be contained in a single pdf file (not an archived folders like a zip file). Make sure that your print size is legible and not small.
 
