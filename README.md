@@ -7,7 +7,7 @@ Hands-on introduction to cloud computing and developing cloud-native (esp. mobil
 Basically, this course has the following learning outcomes:
 
 * What is cloud computing? Why we need it and in which cases we can use that paradigm (__Module-1: What is it?__).
-* How to implement a cloud computing system? What is essential to build an efficient cloud solution (__Module-2: How to implement it?__)
+* How to implement a cloud system? What is essential to build an efficient cloud solution (__Module-2: How to implement it?__)
 * How to sustain a cloud application in both business and technical terms (__Module-3: How to manage it?__)
 
 ## Staff
@@ -50,7 +50,7 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 | __Grading__ | [Overall scores](../master/project/project-grading-project-2020spring.pdf)|
 
 ## Final Exam
-As you already know, the final will be a take-home exam due to the COVID-19 precautions and the class' sound concerns on a Zoom exam. The questions will be published here at 2020-06-11 11:30AM (GMT+3). Email announcement will also be sent (including a link). You will have one full day (24 hours) to complete your submission.
+As you already know, the final is a take-home exam due to the COVID-19 precautions and the class' sound concerns on a Zoom exam. The exam will be available here at 2020-06-11 11:30AM (GMT+3). The reserved zoom exam session will not be used but an AIRS email announcement will be sent (including a link to exam sheets). You will have one full day (24 hours) to complete your submissions.
 
 Please keep in mind, take-home exams are not an easy option. Answering the questions well requires more than just copying information straight from texts. __You should study just as you would for any other exam__. Having written resources to refer to might mean you don't have to memorise as much information, but you still need to be able to apply it effectively. This means you must fully understand and be familiar with the content and materials of the course so you can use the appropriate information.
 
@@ -60,17 +60,19 @@ __Coverage:__
 
 __Instructions:__
 
-* [Plagiarism](https://integrity.mit.edu/handbook/what-plagiarism) or copying solutions is strictly forbidden. Answer all questions by yourself. If you receive help from anyone in and/or outside the class, explicitly state that you have, and identify the person or source from where you have received this help.
+* [Plagiarism](https://integrity.mit.edu/handbook/what-plagiarism) and/or copying solutions is strictly forbidden. Answer all questions by yourself. If you receive help from anyone in and/or outside the class, explicitly state that you have, and identify the person or source from where you have received this help.
 
-* The points for solutions that have been shared (copied) among a group of students (i.e. identitical solutions/answers) will be equally divided among them under the best of circumstances.
+* The points for solutions that have been shared (copied) among a group of students (i.e. identical solutions/answers) will be equally divided among them under the best of circumstances.
 
 * Submit your answers in pdf format to Mr. Mousa Farshkar Azari at mousa.farshkar@bilkent.edu.tr
 
-* Do not use "write down + take a picture + submit" method. Use "type down + export + submit" method. Although you are allowed to draw diagrams by hand (and import into your document), it is not very convenient (for both sides).
+* Do not use the "write down + take a picture + submit" method. Use the "type down + export + submit" method. Although you are allowed to draw diagrams by hand (and import into your document), it is not very convenient (for both sides).
 
-* Do not submit rotated or upside down, tiny images of your answers. All pages must be contained in a single pdf file (not an archived folders like a zip file). Make sure that your print size is legible and not small.
+* Do not submit rotated or upside down, tiny images. All pages must be contained in a single pdf file (not archived folders like a zip file). Make sure that your print size is legible and not small.
 
-* Use your last name to name your pdf file. Example: sahin.pdf, izci.pdf, etc.
+* Answers should be clear, concise, and precise. Please, try not to exceed 4-5 pages in total (including the questions & exam page).
+
+* Use your `<last name>_<first name>` to name your pdf file. Example: doe_john.pdf, sonat_orcun.pdf, akyol_gaye_su.pdf, etc.
 
 * Hardcopy submissions shall not be accepted for grading.
 
