@@ -50,9 +50,11 @@ Each student is expected to be part of a team (size of 3 people). During the fif
 | __Grading__ | [Overall scores](../master/project/project-grading-project-2020spring.pdf)|
 
 ## Final Exam
-As you already know, the final is a take-home exam due to the COVID-19 precautions and the class' sound concerns on a Zoom exam. The exam will be available here at 2020-06-11 11:30AM (GMT+3). The reserved zoom exam session will not be used but an AIRS email announcement will be sent (including a link to exam sheets). You will have one full day (24 hours) to complete your submissions.
+As you already know, the final is a take-home exam due to the COVID-19 precautions and the class' sound concerns on a Zoom exam. The exam will be available [here](../master/exam/CS443-final-exam.pdf) at 2020-06-11 11:30AM (GMT+3). The reserved zoom exam session will not be used but an AIRS email announcement will be sent (including a link to exam sheets). You will have one full day (24 hours) to complete your submissions.
 
 Please keep in mind, take-home exams are not an easy option. Answering the questions well requires more than just copying information straight from texts. __You should study just as you would for any other exam__. Having written resources to refer to might mean you don't have to memorise as much information, but you still need to be able to apply it effectively. This means you must fully understand and be familiar with the content and materials of the course so you can use the appropriate information.
+
+__Exam page:__ [Link](../master/exam/CS443-final-exam.pdf)
 
 __Coverage:__
 
