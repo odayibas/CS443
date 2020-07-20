@@ -1,8 +1,8 @@
-# CS443 – Cloud Computing &amp; (Mobile) Applications
+# CS443 – Cloud Computing &amp; Mobile Applications
 
 ## Catalog Description
 
-Hands-on introduction to cloud computing and developing cloud-native (esp. mobile) applications. Cloud application models, services and infrastructures (virtualization, data center networking, distributed file systems), cluster computing systems (e.g. Spark), fundamental trade offs and methods (CAP theorem, NoSQL systems), architecture (modern n-tier, lambda, kappa) and applications (big data analytics, large-scale web services). Programming to develop scalable applications running on the cloud (e.g. AWS, Azure, GCP, Oracle).
+Hands-on introduction to cloud computing and developing cloud-native (esp. mobile) applications. Cloud application models, services and infrastructures (virtualization, data center networking, distributed file systems), cluster computing systems (e.g. Spark), fundamental trade offs and methods (CAP theorem, NoSQL systems), architecture (modern n-tier, lambda, kappa) and applications (big data analytics, large-scale web services). Programming to develop scalable applications running on the cloud.
 
 Basically, this course has the following learning outcomes:
 
@@ -25,62 +25,37 @@ Please refer to the web page of the course.
 
 ## Assessment Methods
 
-__ATTENTION:__ There will be no midterm exam due to the COVID-19 precautions.
-
-| Item      | Type          | Weight  | New Weight |
-|:--------- |:------------- | -------:|-----:|
-| Attendance| N/A           | 5%      | 7%|
-| ~~Midterm~~   | ~~Essay/written~~ | ~~30%~~ | N/A|
-| Project   | Implementation| 30%     | 43%|
-| Final     | Essay/written | 35%     | 50%|
+| Item      | Type          | Weight  |
+|:--------- |:------------- | -------:|
+| Attendance| N/A           | 5%      |
+| Midterm   | Essay/written | 30%     |
+| Project   | Implementation| 30%     |
+| Final     | Essay/written | 35%     |
 
 ## Project
 
 Each student is expected to be part of a team (size of 3 people). During the fifth or sixth week of classes the project topic will be announced and every team will be expected to implement a cloud-native mobile-first application. Grading criteria will include the operational features of the application (we will cover these features in detail throughout the semester). During the classes each team will present: reports and demo/presentation on at least but not limited to the implementation details, external services, cloud characteristics, performance analysis, etc.
+
+### 2019-2020 Spring Semester
 
 | | |
 |-|-|
 |__Topic__ | Design, implement and operate a cloud-native URL shortener system (B2B API, Mobile client, etc.) |
 |__Details__  | [Project definition](../master/project/project-definition.pdf) |
 |__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
-| __Teams__ | [(Link)](../master/project/preject-teams-2020Spring.pdf) |
+| __Teams__ | (Link) |
 | __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: ~~2020-04-17~~ 2020-04-24 <br /> **Send your deliverables to TA (in an email)** |
 | __Feedbacks__ | [Feedback Sessions #1: System Designs](../master/project/project-feedback-1.pdf) |
 | __Presentation & Demo__ | Each group have 15 min. to present (ordered list). <br /> __1st Session (2020-05-04):__ Group #9, #1, #16, #2, #13 <br /> __2nd Session (2020-05-06):__ Group #3, #7, #12, #11, #10, #8, #15 <br /> __3rd Session (2020-05-06):__ Group #10, #4, #5, #6 <br /> __4th Session (2020-05-13):__ Group #14 |
-| __Grading__ | [Overall scores](../master/project/project-grading-project-2020spring.pdf)|
 
 ## Final Exam
-As you already know, the final is a take-home exam due to the COVID-19 precautions and the class' sound concerns on a Zoom exam. The exam will be available [here](../master/exam/CS443-final-exam.pdf) at 2020-06-11 11:30AM (GMT+3). The reserved zoom exam session will not be used but an AIRS email announcement will be sent (including a link to exam sheets). You will have one full day (24 hours) to complete your submissions.
+
+### 2019-2020 Spring Semester
+
+As you already know, the final is a take-home exam due to the COVID-19 precautions and the class' sound concerns on a Zoom exam. The exam will be available here at 2020-06-11 11:30AM (GMT+3). The reserved zoom exam session will not be used but an AIRS email announcement will be sent (including a link to exam sheets). You will have one full day (24 hours) to complete your submissions.
 
 Please keep in mind, take-home exams are not an easy option. Answering the questions well requires more than just copying information straight from texts. __You should study just as you would for any other exam__. Having written resources to refer to might mean you don't have to memorise as much information, but you still need to be able to apply it effectively. This means you must fully understand and be familiar with the content and materials of the course so you can use the appropriate information.
 
-__Exam page:__ [Link](../master/exam/CS443-final-exam.pdf)
-
-__Coverage:__
-
-* The final exam covers the entire semester’s work (except "chapter 9" and "week#14 - experience talk" content).
-
-__Instructions:__
-
-* [Plagiarism](https://integrity.mit.edu/handbook/what-plagiarism) and/or copying solutions is strictly forbidden. Answer all questions by yourself. If you receive help from anyone in and/or outside the class, explicitly state that you have, and identify the person or source from where you have received this help.
-
-* The points for solutions that have been shared (copied) among a group of students (i.e. identical solutions/answers) will be equally divided among them under the best of circumstances.
-
-* Submit your answers in pdf format to Mr. Mousa Farshkar Azari at mousa.farshkar@bilkent.edu.tr
-
-* Do not use the "write down + take a picture + submit" method. Use the "type down + export + submit" method. Although you are allowed to draw diagrams by hand (and import into your document), it is not very convenient (for both sides).
-
-* Do not submit rotated or upside down, tiny images. All pages must be contained in a single pdf file (not archived folders like a zip file). Make sure that your print size is legible and not small.
-
-* Answers should be clear, concise, and precise. Please, try not to exceed 4-5 pages in total (including the questions & exam page).
-
-* Use your `<last name>_<first name>` to name your pdf file. Example: doe_john.pdf, sonat_orcun.pdf, akyol_gaye_su.pdf, etc.
-
-* Hardcopy submissions shall not be accepted for grading.
-
-* All submissions must be made by 2020-06-12 11:30AM (GMT+3).
-
-* Late submissions shall be subject to surcharge of negative points. If you submit your exam within 2 hours of the submission deadline, you will lose 5 points. Another 5 points will be deducted from your total score for each additional 2 hours of late submission.
 
 ## Weekly Syllabus
 
@@ -98,14 +73,16 @@ __Instructions:__
 | Quarkus | 2020-04-01 | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
 | Flutter | 2020-04-06 | 10 | https://flutter.dev/docs/get-started/install |
 
-## Weekly Schedule for 2019-2020 Spring Semester
+## Weekly Schedule 
 
-### Regular Classes (first six weeks of the classes)
+### 2019-2020 Spring Semester
+
+#### Regular Classes (first six weeks of the classes)
 
 * Monday 13:40 - 15:30 (EA-Z03)
 * Wednesday 15:40 - 16:30 (EA-Z03)
 
-### Remote Instruction (the rest of the semester)
+#### Remote Instruction (the rest of the semester)
 
 * Regular time slots are also used for remote instructions.
 * Official announcement: https://w3.bilkent.edu.tr/bilkent/remote-teaching-at-bilkent-university/
