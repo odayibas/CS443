@@ -13,7 +13,7 @@ Basically, this course has the following learning outcomes:
 ## Staff
 
 * __Instructor:__ Dr. Orçun Dayıbaş
-* __T. Assistant:__ Mousa Farshkar Azari
+* __T. Assistant:__ (TBD)
 
 ## Prerequisite(s)
 
@@ -25,44 +25,31 @@ Please refer to the web page of the course.
 
 ## Assessment Methods
 
-| Item      | Type          | Weight  |
-|:--------- |:------------- | -------:|
-| Attendance| N/A           | 5%      |
-| Midterm   | Essay/written | 30%     |
-| Project   | Implementation| 30%     |
-| Final     | Essay/written | 35%     |
+| Item       | Type          | Weight  |
+|:---------- |:------------- | -------:|
+| Quizzes/HWs| Written/Imp.  | 10%     |
+| Midterm    | Essay/written | 25%     |
+| Project    | Implementation| 30%     |
+| Final      | Essay/written | 35%     |
 
 ## Project
 
 Each student is expected to be part of a team (size of 3 people). During the fifth or sixth week of classes the project topic will be announced and every team will be expected to implement a cloud-native mobile-first application. Grading criteria will include the operational features of the application (we will cover these features in detail throughout the semester). During the classes each team will present: reports and demo/presentation on at least but not limited to the implementation details, external services, cloud characteristics, performance analysis, etc.
 
-### 2019-2020 Spring Semester
+## Exams (Final & Midterm)
 
-| | |
-|-|-|
-|__Topic__ | Design, implement and operate a cloud-native URL shortener system (B2B API, Mobile client, etc.) |
-|__Details__  | [Project definition](../master/project/project-definition.pdf) |
-|__Examples__  | A guide about [how to use bitly](https://www.youtube.com/watch?v=oK4rRWcm3fM) |
-| __Teams__ | (Link) |
-| __Deadlines__ | Design reports: 2020-04-03 <br /> Final reports: ~~2020-04-17~~ 2020-04-24 <br /> **Send your deliverables to TA (in an email)** |
-| __Feedbacks__ | [Feedback Sessions #1: System Designs](../master/project/project-feedback-1.pdf) |
-| __Presentation & Demo__ | Each group have 15 min. to present (ordered list). <br /> __1st Session (2020-05-04):__ Group #9, #1, #16, #2, #13 <br /> __2nd Session (2020-05-06):__ Group #3, #7, #12, #11, #10, #8, #15 <br /> __3rd Session (2020-05-06):__ Group #10, #4, #5, #6 <br /> __4th Session (2020-05-13):__ Group #14 |
+Online written exam
 
-## Final Exam
+## Quizzes & Homeworks
 
-### 2019-2020 Spring Semester
-
-As you already know, the final is a take-home exam due to the COVID-19 precautions and the class' sound concerns on a Zoom exam. The exam will be available here at 2020-06-11 11:30AM (GMT+3). The reserved zoom exam session will not be used but an AIRS email announcement will be sent (including a link to exam sheets). You will have one full day (24 hours) to complete your submissions.
-
-Please keep in mind, take-home exams are not an easy option. Answering the questions well requires more than just copying information straight from texts. __You should study just as you would for any other exam__. Having written resources to refer to might mean you don't have to memorise as much information, but you still need to be able to apply it effectively. This means you must fully understand and be familiar with the content and materials of the course so you can use the appropriate information.
-
+TBD
 
 ## Weekly Syllabus
 
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
-| Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content,<br/> [Project definition](../master/project/project-definition.pdf),<br/> Team formations [(Teams)](../master/project/preject-teams-2020Spring.pdf) |
-| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [~~9. Programming models~~](../master/slides/chapter-9.pdf) <br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#10)| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> ~~Midterm~~,<br/> P. report(s) |
+| Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#2)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#4) | Module content,<br/> Project definition,<br/> Team formations |
+| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#5) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#6) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [~~9. Programming models~~](../master/slides/chapter-9.pdf) <br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#10)| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
 | Module-3: How to manage it? | [12. Migrating to cloud](../master/slides/chapter-12.pdf) (w#11)<br/> ~~13. Cloud vendors & tools~~ <br/> 14. Governance & Case studies (w#14) | Module content,<br /> Feedback & review (w#12), <br /> Project report(s),<br/> demo & presentations (w#13) |
 
 | Hands-on Labs | Date | Week # | Prerequisites |
@@ -73,25 +60,22 @@ Please keep in mind, take-home exams are not an easy option. Answering the quest
 | Quarkus | 2020-04-01 | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
 | Flutter | 2020-04-06 | 10 | https://flutter.dev/docs/get-started/install |
 
-## Weekly Schedule 
+## Weekly Schedule
 
-### 2019-2020 Spring Semester
+### 2020-2021 Spring Semester
 
-#### Regular Classes (first six weeks of the classes)
+#### Regular Classes
 
-* Monday 13:40 - 15:30 (EA-Z03)
-* Wednesday 15:40 - 16:30 (EA-Z03)
+* Monday 11:30 - 12:20 (EB-202)
+* Wednesday 15:30 - 17:20 (EB-202)
 
-#### Remote Instruction (the rest of the semester)
+#### Remote Instruction
 
 * Regular time slots are also used for remote instructions.
-* Official announcement: https://w3.bilkent.edu.tr/bilkent/remote-teaching-at-bilkent-university/
 * Details for Zoom: https://web4.bilkent.edu.tr/zoom/
 * There is no any upfront arrangement for recording the Zoom sessions. Therefore, please continue to take regular notes like you did in the physical classroom environment.
 
 ## FAQ
-
-The questions received during the first weeks of classes (hoping that will help you to decide on taking the course before add/drop week)
 
 __Q1:__ Which mobile development frameworks (iOS/Android/etc.) will be used during the course? <br/>
 __A1:__ Please do not consider that course as a "App development course". "Mobile App development" is not one of the learning outcome objectives. We will use "mobile applications" as the main theme for implementing a cloud computing solution.
