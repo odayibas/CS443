@@ -54,8 +54,7 @@ TBD
 
 | Hands-on Labs | Date | Week # | Prerequisites |
 |:--------------|:----:|:-----:|:------|
-| Docker | (TBD) | 6 |[Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#setting-the-environment)  |
-| Prometheus | (TBD) | 8 | [Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#setting-the-environment) |
+| Docker | 2021-02-24 | 4 |[Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#setting-the-environment)  |
 | Kubernetes | (TBD) | 9 |[Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#prerequisites-for-the-part-3)|
 | Quarkus | (TBD) | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
 | Flutter | (TBD) | 10 | https://flutter.dev/docs/get-started/install |
