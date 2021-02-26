@@ -49,13 +49,13 @@ TBD
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#1)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#2, w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#3) | Module content,<br/> Project definition,<br/> Team formations |
-| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#?) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#4) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [9. Programming models](../master/slides/chapter-9.pdf) (w#8)<br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#10)| Module content,<br/> [Hands-on labs](https://github.com/CemalUnal/cloud-native-application-development-workshop),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
+| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#?) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#4) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [9. Programming models](../master/slides/chapter-9.pdf) (w#8)<br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#10)| Module content,<br/> Hands-on labs,<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
 | Module-3: How to manage it? | [12. Migrating to cloud](../master/slides/chapter-12.pdf) (w#11)<br/> ~~13. Cloud vendors & tools~~ <br/> 14. Governance & Case studies (w#14) | Module content,<br /> Feedback & review (w#12), <br /> Project report(s),<br/> demo & presentations (w#13) |
 
 | Hands-on Labs | Date | Week # | Prerequisites |
 |:--------------|:----:|:-----:|:------|
-| Docker | 2021-02-24 | 4 |[Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#setting-the-environment)  |
-| Kubernetes | (TBD) | 9 |[Link](https://github.com/CemalUnal/cloud-native-application-development-workshop#prerequisites-for-the-part-3)|
+| Docker | 2021-02-24 | 4 | git 2.20.1+, docker 19.03.2+ (optional: a [Docker ID](https://hub.docker.com/signup/)) |
+| Kubernetes | (TBD) | 5 |(TBD)|
 | Quarkus | (TBD) | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
 | Flutter | (TBD) | 10 | https://flutter.dev/docs/get-started/install |
 
