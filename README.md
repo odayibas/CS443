@@ -57,7 +57,7 @@ TBD
 | Hands-on Labs | Date | Week # | Prerequisites |
 |:--------------|:----:|:-----:|:------|
 | Docker | 2021-02-24 | 4 | git 2.20.1+, docker 19.03.2+ (optional: a [Docker ID](https://hub.docker.com/signup/)) |
-| Kubernetes | (TBD) | 5 |(TBD)|
+| Kubernetes | 2021-03-03 | 5 |Access to https://www.katacoda.com/courses/kubernetes/playground|
 | Quarkus | (TBD) | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
 | Flutter | (TBD) | 10 | https://flutter.dev/docs/get-started/install |
 
