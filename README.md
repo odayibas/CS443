@@ -44,20 +44,20 @@ Online written exam
 
 ## Quizzes & Homeworks
 
-TBD
+ * Quiz-1: March 10, 2021 
 
 ## Weekly Syllabus
 
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#1)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#2, w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#3) | Module content,<br/> Project definition,<br/> Team formations |
-| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#?) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#4) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [9. Programming models](../master/slides/chapter-9.pdf) (w#8)<br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#10)| Module content,<br/> Hands-on labs,<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
+| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#?) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#4) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [9. Programming models](../master/slides/chapter-9.pdf) (w#8)<br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#10)| Module content,<br/> Hands-on labs (w#5),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
 | Module-3: How to manage it? | [12. Migrating to cloud](../master/slides/chapter-12.pdf) (w#11)<br/> ~~13. Cloud vendors & tools~~ <br/> 14. Governance & Case studies (w#14) | Module content,<br /> Feedback & review (w#12), <br /> Project report(s),<br/> demo & presentations (w#13) |
 
 | Hands-on Labs | Date | Week # | Prerequisites |
 |:--------------|:----:|:-----:|:------|
 | Docker | 2021-02-24 | 4 | git 2.20.1+, docker 19.03.2+ (optional: a [Docker ID](https://hub.docker.com/signup/)) |
-| Kubernetes | 2021-03-03 | 5 |Access to https://www.katacoda.com/courses/kubernetes/playground|
+| Kubernetes | 2021-03-03 | 5 |Access to [Katacoda k8s playground](https://www.katacoda.com/courses/kubernetes/playground)|
 | Quarkus | (TBD) | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
 | Flutter | (TBD) | 10 | https://flutter.dev/docs/get-started/install |
 
@@ -96,68 +96,6 @@ __A5:__ No, it is not possible.
 __Q6:__ I'm taking that course without a prior computer networking course. It may be a bit hard follow -at least- the terminology used in the course. What do you suggest? <br />
 __A6:__ You can use that walk through: ["Your App Lives on a Network: Networking for Web Developers by Wim Godden"](https://www.youtube.com/watch?v=t0JdGOYuQzc) It takes around an hour and it seems the presenter covers all the basics (which is enough for this course). If you prefer more formal content, Udacity also offers a free course called ["Networking for Web Developers"](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
-## Bookmarks
+## [Bookmarks](../master/bookmarks.md)
 
-External supporting content (e.g. blog posts, video tutorials).
-
-* [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
-* [C2MS: Dynamic Monitoring and Management of Cloud Infrastructures](https://arxiv.org/abs/1310.2148)
-* [Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance)
-* [Understanding the 8 fallacies of Distributed Systems](https://www.simpleorientedarchitecture.com/8-fallacies-of-distributed-systems/)
-* [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
-* [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
-* [Zalando REST API Guidelines](https://opensource.zalando.com/restful-api-guidelines/) & [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
-* [How to Build 12 Factor Microservices on Docker](https://hub.packtpub.com/how-to-build-12-factor-design-microservices-on-docker-part-1/)
-* [Google reinforces undersea cables after shark bites](https://www.theguardian.com/technology/2014/aug/14/google-undersea-fibre-optic-cables-shark-attacks)
-* [Why Microsoft wants to put data centers at the bottom of the ocean](https://techcrunch.com/2018/06/08/why-microsoft-wants-to-put-data-centers-at-the-bottom-of-the-ocean/)
-* [Networking for the Cloud: Challenges and Trends](https://www.researchgate.net/publication/273249689_Networking_for_the_Cloud_Challenges_and_Trends)
-* [Review and Analysis of Networking Challenges in Cloud Computing](https://arxiv.org/pdf/1601.05329.pdf)
-* [Containers from scratch](https://youtu.be/8fi7uSYlOdc)
-* [Email crash crippled federal health offices as coronavirus was first gaining grounds in U.S.](https://www.politico.com/amp/news/2020/03/10/email-crash-coronavirus-hhs-125302)
-* [Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus](https://github.com/GoogleCloudPlatform/microservices-demo)
-* [Resource Management in Cloud Computing: Taxonomy, Prospects and Challenges](https://www.researchgate.net/publication/280918541_Resource_Management_in_Cloud_Computing_Taxonomy_Prospects_and_Challenges)
-* [Predictive CPU isolation of containers at Netflix](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
-* [Container-based Network Function Virtualization for Software-Defined Networks](https://pdfs.semanticscholar.org/dd1c/74eccb957aba63faf0390c65229b93d5eea2.pdf)
-* [Control strategies for predictable brownouts in cloud computing](https://www.sciencedirect.com/science/article/pii/S1474667016416940)
-* [Consensus in the Cloud: Paxos Systems Demystified](https://cse.buffalo.edu/tech-reports/2016-02.orig.pdf)
-* [Observability to Better Serverless Apps](https://www.infoq.com/presentations/serverless-observability-2018/)
-* [The Single Most Important Internal Email in the History of Amazon](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/)
-* [Introducing Quarkus: a next-generation Kubernetes native Java framework](https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework/)
-* [Lightweight cloud-native Java applications](https://medium.com/graalvm/lightweight-cloud-native-java-applications-35d56bc45673)
-* [Top 10 Things To Do With GraalVM](https://medium.com/graalvm/graalvm-ten-things-12d9111f307d)
-* [Sample Flutter Application Architectures](https://github.com/brianegan/flutter_architecture_samples)
-* [Measuring API Developer Experience (DX)](https://blog.inten.to/measuring-api-developer-experience-91b5c19645b0)
-* [API DX Resources](https://www.moesif.com/blog/api-guide/api-developer-experience/)
-* [The enterprise "barrier-to-exit" to cloud computing](http://blog.jamesurquhart.com/2008/12/enterprise-barrier-to-exit-to-cloud.html)
-* [Mobile App Marketing — A guide to the main KPIs](https://medium.com/@hello_80136/mobile-app-marketing-a-guide-to-the-main-kpis-part-1-9ce238e45dcb)
-* [Why Zoom Chose Oracle Cloud Over AWS and Maybe You Should Too](https://www.lastweekinaws.com/blog/why-zoom-chose-oracle-cloud-over-aws-and-maybe-you-should-too/)
-
-## References
-
-* https://link.springer.com/book/10.1007/978-1-4419-6524-0
-* https://www.oreilly.com/library/view/cloud-application-architectures/9780596157647/
-* https://samnewman.io/books/building_microservices/
-* https://landing.google.com/sre/books/
-* https://conferences.oreilly.com/software-architecture/sa-eu-2016/public/schedule/detail/52350
-* https://www.slideshare.net/jboner/scalability-availability-stability-patterns
-* https://www.slideshare.net/srikrupa5/dns-security-presentation-issa
-* https://github.com/donnemartin/system-design-primer
-* http://horicky.blogspot.com.tr/2010/10/scalable-system-design-patterns.html
-* https://www.youtube.com/watch?v=vg5onp8TU6Q
-* http://www.slideshare.net/tmatyashovsky/from-cache-to-in-memory-data-grid-introduction-to-hazelcast
-* https://www.youtube.com/watch?v=1KRYH75wgy4
-* https://github.com/OWASP/Top10/blob/master/2017/OWASP%20Top%2010-2017%20(en).pdf
-* https://github.com/FallibleInc/security-guide-for-developers
-* https://www.youtube.com/watch?v=PE4gwstWhmc
-* https://speakerdeck.com/thockin/kubernetes-understanding-pods-vs-containers
-* https://www.slideshare.net/YifanXing/consensus-algorithmspaperswelove2018sep
-* https://muratbuffalo.blogspot.com/2015/10/consensus-in-wild.html
-* https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf
-* https://agenda.infn.it/event/19049/contributions/98119/attachments/66836/81864/FaaS-Serverless-SOSC19.pdf
-* https://martinfowler.com/articles/serverless.html
-* https://medium.com/gradeup/mobile-development-approaches-and-flutter-architecture-flutter-part-i-a7e08838c97a
-* https://www.slideshare.net/sanjeev-sharma/enterprise-mobile-app-ux-designing-from-ui-to-backend
-* https://medium.com/@albertcavalcante/what-is-dx-developer-experience-401a0e44a9d9
-* https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
-* https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
-* https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf
+## [References](../master/references.md)
