@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: postgres-config
+  labels:
+    app: postgres
+data:
+  POSTGRESQL_USER: restcrud
+  POSTGRESQL_PASSWORD: restcrud
+  POSTGRESQL_DATABASE: rest-crud
