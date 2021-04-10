@@ -40,12 +40,12 @@ Each student is expected to be part of a team (size of 3 people) to implement a 
 
 ## Exams (Final & Midterm)
 
-* Midterm: Online written exam / TBD
+* Midterm: Online written exam / 10:30, April 05, 2021
 
 ## Quizzes & Homeworks
 
-* Quiz-1: @Bilkent-Moodle / ~~17:00, March 10, 2021~~ 11:00, March 22, 2021
-* Quiz-2: @Bilkent-Moodle / TBD
+* Quiz-1: @Bilkent-Moodle / 11:00, March 22, 2021
+* Quiz-2: @Bilkent-Moodle / 17:00, April 14, 2021
 
 ## Weekly Syllabus
 
@@ -60,8 +60,8 @@ Each student is expected to be part of a team (size of 3 people) to implement a 
 |:--------------|:----:|:-----:|:------|
 | [Docker](../master/hands-on/lab-docker-1/lab-docker.md) | 2021-02-24 | 4 | git 2.20.1+, docker 19.03.2+ (optional: a [Docker ID](https://hub.docker.com/signup/)) |
 | [Kubernetes](../master/hands-on/lab-k8s-1/lab-k8s.md) | 2021-03-03 | 5 |Access to [Katacoda k8s playground](https://www.katacoda.com/courses/kubernetes/playground)|
-| Quarkus | (TBD) | 9 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
-| Flutter | (TBD) | 10 | https://flutter.dev/docs/get-started/install |
+| [Quarkus](../master/hands-on/lab-k8s-1/lab-quarkus.md) | 2021-04-21 | 10 | Maven 3.6.2+, JDK 8 or 11+ installed (with JAVA_HOME configured) |
+| Flutter | (TBD) | 12 | https://flutter.dev/docs/get-started/install |
 
 ## Weekly Schedule
 
