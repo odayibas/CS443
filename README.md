@@ -38,9 +38,10 @@ Each student is expected to be part of a team (size of 3 people) to implement a 
 
 [Project definition](../master/project/project-definition.pdf)
 
-## Exams (Final & Midterm)
+## Exams
 
 * Midterm: Online written exam / 10:30, April 05, 2021
+* Final: TBD
 
 ## Quizzes & Homeworks
 
@@ -52,8 +53,8 @@ Each student is expected to be part of a team (size of 3 people) to implement a 
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#1)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#2, w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#3) | Module content,<br/> Project definition,<br/> Team formations |
-| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#6) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#4) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [9. Programming models](../master/slides/chapter-9.pdf) (w#9)<br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#10)| Module content,<br/> Hands-on labs (w#5),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
-| Module-3: How to manage it? | [12. Migrating to cloud](../master/slides/chapter-12.pdf) (w#11)<br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies (w#14) | Module content,<br /> Feedback & review (w#12), <br /> Project report(s),<br/> demo & presentations (w#13) |
+| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#6) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#4) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [9. Programming models](../master/slides/chapter-9.pdf) (w#9)<br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#12)| Module content,<br/> Hands-on labs (w#5),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
+| Module-3: How to manage it? | [12. Migrating to cloud](../master/slides/chapter-12.pdf) (w#11)<br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies (w#14) | Module content,<br /> Feedback & review (w#11), <br /> Project report(s),<br/> demo & presentations (w#13) |
 | Extension | [X-1. API Design](../master/slides/chapter-x1.pdf) (w#6) <br/> [X-2. Serverless](../master/slides/chapter-x2.pdf) (w#8)| Additional content for this term (clarifications and extensions) |
 
 | Hands-on Labs | Date | Week # | Prerequisites |
@@ -74,7 +75,7 @@ Each student is expected to be part of a team (size of 3 people) to implement a 
 
 #### Remote Instruction
 
-* Regular time slots are also used for remote instructions.
+* Regular time slots are used for remote instructions.
 * Details for Zoom: https://web4.bilkent.edu.tr/zoom/
 * There is no any upfront arrangement for recording the Zoom sessions. Therefore, please continue to take regular notes like you did in the physical classroom environment.
 
