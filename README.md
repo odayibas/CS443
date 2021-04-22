@@ -36,9 +36,10 @@ Please refer to the web page of the course.
 
 Each student is expected to be part of a team (size of 3 people) to implement a cloud-native mobile-first application. Grading criteria will include the operational features of the application (we will cover these features in detail throughout the semester). During the classes each team will present: reports and demo/presentation on at least but not limited to the implementation details, external services, cloud characteristics, performance analysis, etc.
 
-###[Project definition](../master/project/project-definition.pdf)
+### [Project definition](../master/project/project-definition.pdf)
 
-###Presentation Schedule
+### Presentation Schedule
+
  Each group has 15 min. to present including demonstration of the application. You can find the ordered list for each session below.
 |Session| Date | List of groups |
 |:---:|:-------:|:------|
