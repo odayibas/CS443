@@ -43,16 +43,17 @@ Each student is expected to be part of a team (size of 3 people) to implement a 
  Each group has 15 min. to present including demonstration of the application. You can find the ordered list for each session below.
 |Session| Date | List of groups |
 |:---:|:-------:|:------|
-|1|2021-04-26 / 10:30| 1, 2, 11|
-|2|2021-04-26 / 11:30| 4, 5, 12|
-|3|2021-04-28 / 15:30| 9, 7, 14|
-|4|2021-04-28 / 16:30| 6, 8, 3|
-|5|2021-05-03 / 10:30| 13, 10, 15|
+|1|2021-04-26 / 10:30| 1, 2|
+|2|2021-04-26 / 11:30| 11, 4, 5|
+|3|2021-04-28 / 15:30| 8, 12, 9|
+|4|2021-04-28 / 16:30| 7, 14, 6|
+|5|2021-05-03 / 10:30| 3, 13, 10, 15|
 
 ## Exams
 
 * Midterm: Online written exam / 10:30, April 05, 2021
-* Final: TBD
+* Final: Online written exam / TBD
+
 
 ## Quizzes & Homeworks
 
