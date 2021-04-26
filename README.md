@@ -36,7 +36,7 @@ Please refer to the web page of the course.
 
 Each student is expected to be part of a team (size of 3 people) to implement a cloud-native mobile-first application. Grading criteria will include the operational features of the application (we will cover these features in detail throughout the semester). During the classes each team will present: reports and demo/presentation on at least but not limited to the implementation details, external services, cloud characteristics, performance analysis, etc.
 
-### [Project definition](../master/project/project-definition.pdf)
+### [Project Definition](../master/project/project-definition.pdf)
 
 ### Presentation Schedule
 
@@ -64,7 +64,7 @@ Each student is expected to be part of a team (size of 3 people) to implement a 
 | Module | Topics & Week Numbers | Notes |
 |:-------|:------|:------:|
 | Module-1: What is it? | [1. Introduction to cloud computing](../master/slides/chapter-1.pdf) (w#1)<br/> [2. Features of cloud](../master/slides/chapter-2.pdf) (w#1)<br/> [3. Cloud application architectures](../master/slides/chapter-3.pdf) (w#2)<br/> [4. Designing systems for scale](../master/slides/chapter-4.pdf) (w#2, w#3)<br/> [5. Microservices](../master/slides/chapter-5.pdf) (w#3) | Module content,<br/> Project definition,<br/> Team formations |
-| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#6) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#4) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [9. Programming models](../master/slides/chapter-9.pdf) (w#9)<br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications & case studies](../master/slides/chapter-11.pdf) (w#12)| Module content,<br/> Hands-on labs (w#5),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
+| Module-2: How to implement it? | [6. Anatomy of a data center](../master/slides/chapter-6.pdf) (w#6) <br/> [7. Virtualization & containers](../master/slides/chapter-7.pdf) (w#4) <br/> [8. Resource management & coordination](../master/slides/chapter-8.pdf) (w#8)<br/> [9. Programming models](../master/slides/chapter-9.pdf) (w#9)<br/> [10. Cloud-native application development](../master/slides/chapter-10.pdf) (w#9)<br/> [11. Mobile applications](../master/slides/chapter-11.pdf) (w#12)| Module content,<br/> Hands-on labs (w#5),<br/> Spring break (w#7),<br/> Midterm,<br/> P. report(s) |
 | Module-3: How to manage it? | [12. Migrating to cloud](../master/slides/chapter-12.pdf) (w#11)<br/> 13. Cloud vendors & tools <br/> 14. Governance & Case studies (w#14) | Module content,<br /> Feedback & review (w#11), <br /> Project report(s),<br/> demo & presentations (w#13) |
 | Extension | [X-1. API Design](../master/slides/chapter-x1.pdf) (w#6) <br/> [X-2. Serverless](../master/slides/chapter-x2.pdf) (w#8) <br/> [X-3. UI/UX/DX Design](../master/slides/chapter-x3.pdf) (w#8)| Additional content for this term (clarifications and extensions) |
 
