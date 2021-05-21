@@ -58,7 +58,7 @@ Each student is expected to be part of a team (size of 3 people) to implement a 
 ## Exams
 
 * __Midterm:__ Online written exam / 10:30, April 05, 2021
-* __Final:__ Online written exam / TBD, May 25, 2021
+* __Final:__ Online written exam / 17:30, May 23, 2021
 
 
 ## Quizzes & Homeworks
